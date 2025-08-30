@@ -172,10 +172,10 @@ Check out our [Contributing Guidelines](CONTRIBUTING.md) for more details!
 If Gummy Worms helps you in your research, please give us a sweet shout-out:
 
 ```bibtex
-@software{gummy_worms2023,
+@software{gummy_worms2025,
   title = {Gummy Worms: A Delicious Computer Vision Framework},
   author = {Your Name and Wonderful Contributors},
-  year = {2023},
+  year = {2025},
   url = {https://github.com/vidhi-sys/gummy-worms-cv},
   version = {0.94}
 }
