@@ -1,4 +1,4 @@
-# 🍬 Gummy Worms Computer Vision Project
+# 🍬 Gummys Computer Vision Project
 
 <div align="center">
 
