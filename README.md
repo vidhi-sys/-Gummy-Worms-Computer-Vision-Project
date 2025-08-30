@@ -10,14 +10,14 @@
 *A sweet approach to computer vision!* 🍭
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dgTDhUPwpzIfgYFvG8GtQ8RxBw3l_zu7#scrollTo=myI83I1-Pi8F)
-[![Demo](https://img.shields.io/badge/View-Demo-FF6B6B?style=for-the-badge)](https://youtu.be/r0RspiLG260)
 
 </div>
 
 ## 🌟 What is Gummy Worms?
 
-Gummy Worms is a deliciously fun computer vision framework that makes object detection as enjoyable as eating candy! Originally inspired by [this awesome tutorial](https://youtu.be/r0RspiLG260), our project has grown into a comprehensive toolkit perfect for detecting, tracking, and analyzing all things sweet 🍬
+Gummy Worms is a deliciously fun computer vision framework that makes object detection as enjoyable as eating candy! Our project has grown into a comprehensive toolkit perfect for detecting, tracking, and analyzing all things sweet 🍬
 
+```
  __________________________________
 /  Gummy Worms Detection Demo      \
 |                                  |
@@ -30,8 +30,16 @@ Gummy Worms is a deliciously fun computer vision framework that makes object det
            (__)\       )\/\
                ||----w |
                ||     ||
+```
 
- <div align="center">
+<div align="center">
+  
+<img src="yologit.jpeg" alt="YOLO Detection Results" width="600">
+
+*Sample detection results from our YOLO implementation*
+
+</div>
+
 ## 🍭 Our Candy Shop (Modules)
 
 | Module | Version | Description | Emoji |
@@ -58,8 +66,8 @@ Getting started is sweeter than candy! Here's how to set up your Gummy Worms env
 
 ```bash
 # Clone our candy repository
-git clone https://github.com/yourusername/gummy_worms.git
-cd gummy_worms
+git clone https://github.com/vidhi-sys/gummy-worms-cv.git
+cd gummy-worms-cv
 
 # Create a virtual environment (like a candy wrapper!)
 python -m venv gummy_env
@@ -120,7 +128,7 @@ We're as fast and accurate as a kid spotting candy:
 ## 🏗️ Project Structure
 
 ```
-gummy_worms/
+gummy-worms-cv/
 ├── src/gummy_worms/          # 🍬 Our main candy factory
 │   ├── __init__.py           # 🎪 The big top!
 │   ├── core.py               # 🧠 Brain of the operation
@@ -146,9 +154,6 @@ python train.py --data data/my_candy.yaml --cfg models/yolov5s.yaml --weights ''
 
 # Watch the magic happen! ✨
 ```
-<div align="center"><img src="yologit.jpeg" alt="YOLO Detection Results" width="600">
-
-Sample detection results from our YOLO implementation
 
 ## 🤝 Contributing
 
@@ -171,7 +176,7 @@ If Gummy Worms helps you in your research, please give us a sweet shout-out:
   title = {Gummy Worms: A Delicious Computer Vision Framework},
   author = {Your Name and Wonderful Contributors},
   year = {2023},
-  url = {https://github.com/yourusername/gummy_worms},
+  url = {https://github.com/vidhi-sys/gummy-worms-cv},
   version = {0.94}
 }
 ```
@@ -184,7 +189,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Special thanks to:
 
-- [The original tutorial inspiration](https://youtu.be/r0RspiLG260) for getting us started
 - The Ultralytics team for the amazing YOLOv5 framework
 - All the contributors who've added their special flavor
 - The open-source community for being the best candy store ever!
@@ -193,7 +197,7 @@ Special thanks to:
 
 Even the sweetest candy can sometimes have issues! If you find something:
 
-1. **Check** our [Issues page](https://github.com/yourusername/gummy_worms/issues) to see if it's already known
+1. **Check** our [Issues page](https://github.com/vidhi-sys/gummy-worms-cv/issues) to see if it's already known
 2. **Create** a new issue with details about what's happening
 3. **Include** code examples, error messages, and what you expected to happen
 
@@ -205,11 +209,19 @@ We'll get back to you faster than you can say "gummy worms"! 🐛➡️🍬
 
 **Made with ❤️ and way too much candy**
 
-![Candy Divider](https://img.shields.io/badge/🍬🍬🍬-Enjoy!-FF6B6B?style=for-the-badge)
+```
+ ___________________________________
+/  Thank you for visiting our       \
+|  Gummy Worms project!             |
+|                                   |
+|  May your detection be accurate   |
+|  and your candy supply endless!   |
+|                                   |
+|  🍬🍭🍫🍪🍩🧁🍦        |
+\___________________________________/
+```
 
-[![GitHub stars](https://img.shields.io/github/stars/vidhi-sys/gummy_worms?style=social)](https://github.com/yourusername/gummy_worms/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/vidhi-sys/gummy_worms?style=social)](https://github.com/yourusername/gummy_worms/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/vidhi-sys/gummy-worms-cv?style=social)](https://github.com/vidhi-sys/gummy-worms-cv/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/vidhi-sys/gummy-worms-cv?style=social)](https://github.com/vidhi-sys/gummy-worms-cv/network/members)
 
 </div>
-
-*ThankYou*
