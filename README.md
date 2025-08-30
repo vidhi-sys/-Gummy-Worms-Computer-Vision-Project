@@ -221,7 +221,7 @@ We'll get back to you faster than you can say "gummy worms"! 🐛➡️🍬
 \___________________________________/
 ```
 
-[![GitHub stars](https://img.shields.io/github/stars/vidhi-sys/gummy-worms-cv?style=social)](https://github.com/vidhi-sys/gummy-worms-cv/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/vidhi-sys/gummy-worms-cv?style=social)](https://github.com/vidhi-sys/gummy-worms-cv/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/vidhi-sys/gummy-worms-cv?style=social)](https://github.com/vidhi-sys/yolo-candy-detector/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/vidhi-sys/gummy-worms-cv?style=social)](https://github.com/vidhi-sys/yolo-candy-detector/network/members)
 
 </div>
