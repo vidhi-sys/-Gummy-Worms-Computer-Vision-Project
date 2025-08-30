@@ -18,7 +18,18 @@
 
 Gummy Worms is a deliciously fun computer vision framework that makes object detection as enjoyable as eating candy! Originally inspired by [this awesome tutorial](https://youtu.be/r0RspiLG260), our project has grown into a comprehensive toolkit perfect for detecting, tracking, and analyzing all things sweet 🍬
 
-![Gummy Worms Detection Demo](https://via.placeholder.com/800x400/FF6B6B/FFFFFF?text=Gummy+Worms+Detection+in+Action+🎯)
+ __________________________________
+/  Gummy Worms Detection Demo      \
+|                                  |
+|  [•_•]  Detecting...             |
+|  /▽▽▽\  Found 5 gummy worms!     |
+|  ⎛🍬⎞   Processing complete!     |
+\__________________________________/
+       \   ^__^
+        \  (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
 
 ## 🍭 Our Candy Shop (Modules)
 
@@ -134,6 +145,9 @@ python train.py --data data/my_candy.yaml --cfg models/yolov5s.yaml --weights ''
 
 # Watch the magic happen! ✨
 ```
+https://yologit.jpeg
+
+Sample detection results from our YOLO implementation
 
 ## 🤝 Contributing
 
