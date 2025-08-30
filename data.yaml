@@ -1,0 +1,16 @@
+path: /content/data
+train: train/images
+val: validation/images
+nc: 11
+names:
+- MMs_peanut
+- MMs_regular
+- airheads
+- gummy_worms
+- milky_way
+- nerds
+- skittles
+- snickers
+- starbust
+- three_musketeers
+- twizzlers
