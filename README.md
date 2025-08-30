@@ -31,6 +31,7 @@ Gummy Worms is a deliciously fun computer vision framework that makes object det
                ||----w |
                ||     ||
 
+ <div align="center">
 ## 🍭 Our Candy Shop (Modules)
 
 | Module | Version | Description | Emoji |
@@ -145,7 +146,7 @@ python train.py --data data/my_candy.yaml --cfg models/yolov5s.yaml --weights ''
 
 # Watch the magic happen! ✨
 ```
-https://yologit.jpeg
+<div align="center"><img src="yologit.jpeg" alt="YOLO Detection Results" width="600">
 
 Sample detection results from our YOLO implementation
 
@@ -206,8 +207,8 @@ We'll get back to you faster than you can say "gummy worms"! 🐛➡️🍬
 
 ![Candy Divider](https://img.shields.io/badge/🍬🍬🍬-Enjoy!-FF6B6B?style=for-the-badge)
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/gummy_worms?style=social)](https://github.com/yourusername/gummy_worms/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/gummy_worms?style=social)](https://github.com/yourusername/gummy_worms/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/vidhi-sys/gummy_worms?style=social)](https://github.com/yourusername/gummy_worms/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/vidhi-sys/gummy_worms?style=social)](https://github.com/yourusername/gummy_worms/network/members)
 
 </div>
 
